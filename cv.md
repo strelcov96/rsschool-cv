@@ -50,3 +50,8 @@ function isIsogram(str){
 
 ***
 
+### Languages
+
+1. Russian - Native  
+2. English - Upper-Intermediate  
+3. Polish - Basic
