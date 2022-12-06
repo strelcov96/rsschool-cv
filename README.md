@@ -1,1 +1,1 @@
-https://strelcov96.github.io/rsschool-cv/cv
+https://strelcov96.github.io/rsschool-cv/
