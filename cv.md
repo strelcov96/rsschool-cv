@@ -20,3 +20,14 @@ Understanding of SQL queries and HTML/CSS. Now improving skills in JavaScript.
 
 ***
 
+### Skills & Proficiency
+
+* HTML5 & CSS3  
+* Git, GitHub  
+* VS Code  
+* JS Basics  
+* SQL, MySQL  
+* Jira
+
+***
+
